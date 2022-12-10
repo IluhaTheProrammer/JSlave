@@ -1,0 +1,12 @@
+{
+  "name": "hello-js",
+  "version": "0.0.0",
+  "description": "HelloJS",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
